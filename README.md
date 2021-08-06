@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shetshreya01" alt="shetshreya01" /></a> </p>
 
-- 🔭 I’m currently working on [sample resume](file:///C:/Users/Shreya%20shet/Desktop/myresume1.html)
+- 🔭 I’m currently working on [Web Development](file:///C:/Users/Shreya%20shet/Desktop/myresume1.html)
 
 - 🌱 I’m currently learning **selenium technology**
 
