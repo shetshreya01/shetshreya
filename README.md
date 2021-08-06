@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **banking webpage**
 
-- 💬 Ask me about **html,python**
+- 💬 Ask me about **html, adobe XD, python**
 
 - 📫 How to reach me **shreyasureshshet@gmail.com**
 
